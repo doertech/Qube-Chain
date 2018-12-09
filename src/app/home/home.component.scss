@@ -203,29 +203,18 @@ nav ul li a {
 }
 
 .Login{
+     
       position: absolute;
-      width: 94px;
-      height: 33px;
-      
-      font-family: Roboto;
-      font-style: normal;
-      font-weight: normal;
-      line-height: normal;
-      font-size: 18px;
+      transform: translate(-50%,-50%);
+      width: 160px;
+      height: 40px;
+      background: #00072f;
       text-align: center;
-      
-      color: #000000;
-      // position: absolute;
-      // transform: translate(-50%,-50%);
-      // width: 160px;
-      // height: 40px;
-      // background: #00072f;
-      // text-align: center;
-      // line-height: 40px;
-      // color: #555;
-      // text-transform: uppercase;
-      // text-decoration: none;
-      // font-family: sans-serif;
-      // letter-spacing: 6px;
-      // transition: 5s;
+      line-height: 40px;
+      color: #555;
+      text-transform: uppercase;
+      text-decoration: none;
+      font-family: sans-serif;
+      letter-spacing: 6px;
+      transition: 5s;
 }
