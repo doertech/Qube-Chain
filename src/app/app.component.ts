@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { EthcontractService } from './ethcontract.service';
 
 @Component({
   selector: 'app-root',
