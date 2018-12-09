@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import { BootStrap } from 'bootstrap';
 @Component({
   selector: 'app-nav',
   templateUrl: './nav.component.html',
