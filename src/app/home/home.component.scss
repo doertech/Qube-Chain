@@ -16,6 +16,7 @@ body {
     height: 100vh;
     font-family: Poppins;
     font-weight: 400;
+//     background: url(src\images\camera_3.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -199,4 +200,32 @@ nav ul li a {
 
 .hidden {
     display: none;
+}
+
+.Login{
+      position: absolute;
+      width: 94px;
+      height: 33px;
+      
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      line-height: normal;
+      font-size: 18px;
+      text-align: center;
+      
+      color: #000000;
+      // position: absolute;
+      // transform: translate(-50%,-50%);
+      // width: 160px;
+      // height: 40px;
+      // background: #00072f;
+      // text-align: center;
+      // line-height: 40px;
+      // color: #555;
+      // text-transform: uppercase;
+      // text-decoration: none;
+      // font-family: sans-serif;
+      // letter-spacing: 6px;
+      // transition: 5s;
 }
